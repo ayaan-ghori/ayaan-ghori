@@ -9,8 +9,8 @@
 
 ## 🛠️ Technologies
 
-- Languages: JavaScript, Python (learning)
-- Interests: Web Development, AI/ML, Backend Development, Databases
+- Languages: Python (learning), Javascript (learning)
+- Interests: Software Development, AI/ML, Backend Development, Databases
 
 ## 🚀 Featured Projects
 
